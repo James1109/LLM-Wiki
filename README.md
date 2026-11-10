@@ -1,7 +1,4 @@
 # RAG LLM Wiki 與教學簡報
-
-**繳交標題**：〔學校〕 〔學號〕 〔系級〕 〔姓名〕 RAG
-
 主題：RAG（Retrieval-Augmented Generation，檢索增強生成）｜用 LLM Wiki 製作教學 HTML 簡報
 
 ## 1. LLM Wiki 主題與簡短介紹
