@@ -11,7 +11,7 @@
 - 需求摘要：[`requirements.md`](requirements.md)
 
 ## 3. 教學 HTML 簡報
-- 線上瀏覽：`https://james1109.github.io/LLM-Wiki`）
+- 線上瀏覽：(https://james1109.github.io/LLM-Wiki）
 - 檔案：[`slides/index.html`](slides/index.html)，每頁底部標註對應的 Wiki 頁面
 - 教學結構（17 頁）：為什麼需要 → 閉書 vs 開書 → 論文架構 → 流程 → 檢索 → 切塊 → Contextual Retrieval 與 reranking → 論文實驗 → 與微調比較 → 七個失敗點 → 工程經驗 → 小結與自我測驗 → 參考資料
 
